@@ -1,3 +1,7 @@
+# IoT Traffic Anomaly Detection Using Deep SVDD
+I used the IoT-23 dataset from Storatosphereips. (https://www.stratosphereips.org/datasets-iot23)
+The usage is same.
+
 # PyTorch Implementation of Deep SVDD
 This repository provides a [PyTorch](https://pytorch.org/) implementation of the *Deep SVDD* method presented in our
 ICML 2018 paper ”Deep One-Class Classification”.
